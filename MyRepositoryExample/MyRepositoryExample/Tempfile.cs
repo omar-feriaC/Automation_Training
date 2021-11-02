@@ -8,6 +8,6 @@ namespace MyRepositoryExample
 {
     class Tempfile
     {
-        //Test
+        //Test file
     }
 }
