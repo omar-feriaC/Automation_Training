@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyRepositoryExample.Test_folder
+namespace MyRepositoryExample
 {
-    class TempClass
+    class Tempfile
     {
-        //testctest
-        //   test
-        //    test
-
+        //Test file
     }
 }
