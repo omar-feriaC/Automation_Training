@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyRepositoryExample
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
