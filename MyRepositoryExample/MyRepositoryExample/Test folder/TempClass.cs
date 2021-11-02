@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyRepositoryExample
+namespace MyRepositoryExample.Test_folder
 {
-    class Program
+    class TempClass
     {
-        static void Main(string[] args)
-        {
-        }
+        //
+        //   test
+        //    test
+
     }
 }
